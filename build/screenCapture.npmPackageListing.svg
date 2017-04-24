@@ -1,0 +1,111 @@
+<svg height="1726" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="1726" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-24 10:18:00 +0000  2553848 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-24 10:18:00 +0000    10284 bytes  LICENSE</tspan>
+<tspan x="10" y="58">  2.  2017-04-24 10:18:00 +0000    15865 bytes  README.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-24 10:18:00 +0000       83 bytes  example/SampleApp/README.md</tspan>
+<tspan x="10" y="90">  4.  2017-04-24 10:18:00 +0000      549 bytes  example/SampleApp/config.xml</tspan>
+<tspan x="10" y="106">  5.  2017-04-24 10:18:00 +0000     4092 bytes  example/SampleApp/config/res/icon/android/drawab\</tspan>
+<tspan x="10" y="122">le-hdpi/ic_launcher.png</tspan>
+<tspan x="10" y="138">  6.  2017-04-24 10:18:00 +0000     3758 bytes  example/SampleApp/config/res/icon/android/drawab\</tspan>
+<tspan x="10" y="154">le-ldpi/ic_launcher.png</tspan>
+<tspan x="10" y="170">  7.  2017-04-24 10:18:00 +0000     3956 bytes  example/SampleApp/config/res/icon/android/drawab\</tspan>
+<tspan x="10" y="186">le-mdpi/ic_launcher.png</tspan>
+<tspan x="10" y="202">  8.  2017-04-24 10:18:00 +0000     4299 bytes  example/SampleApp/config/res/icon/android/drawab\</tspan>
+<tspan x="10" y="218">le-xhdpi/ic_launcher.png</tspan>
+<tspan x="10" y="234">  9.  2017-04-24 10:18:00 +0000     4704 bytes  example/SampleApp/config/res/icon/android/drawab\</tspan>
+<tspan x="10" y="250">le-xxhdpi/ic_launcher.png</tspan>
+<tspan x="10" y="266"> 10.  2017-04-24 10:18:00 +0000     5196 bytes  example/SampleApp/config/res/icon/android/drawab\</tspan>
+<tspan x="10" y="282">le-xxxhdpi/ic_launcher.png</tspan>
+<tspan x="10" y="298"> 11.  2017-04-24 10:18:00 +0000     8274 bytes  example/SampleApp/config/res/icon/android/playst\</tspan>
+<tspan x="10" y="314">ore-icon.png</tspan>
+<tspan x="10" y="330"> 12.  2017-04-24 10:18:00 +0000     1530 bytes  example/SampleApp/config/res/icon/ios/Contents.j\</tspan>
+<tspan x="10" y="346">son</tspan>
+<tspan x="10" y="362"> 13.  2017-04-24 10:18:00 +0000     3757 bytes  example/SampleApp/config/res/icon/ios/Icon-40.pn\</tspan>
+<tspan x="10" y="378">g</tspan>
+<tspan x="10" y="394"> 14.  2017-04-24 10:18:00 +0000     4170 bytes  example/SampleApp/config/res/icon/ios/Icon-40@2x\</tspan>
+<tspan x="10" y="410">.png</tspan>
+<tspan x="10" y="426"> 15.  2017-04-24 10:18:00 +0000     4518 bytes  example/SampleApp/config/res/icon/ios/Icon-40@3x\</tspan>
+<tspan x="10" y="442">.png</tspan>
+<tspan x="10" y="458"> 16.  2017-04-24 10:18:00 +0000     4014 bytes  example/SampleApp/config/res/icon/ios/Icon-60.pn\</tspan>
+<tspan x="10" y="474">g</tspan>
+<tspan x="10" y="490"> 17.  2017-04-24 10:18:00 +0000     4518 bytes  example/SampleApp/config/res/icon/ios/Icon-60@2x\</tspan>
+<tspan x="10" y="506">.png</tspan>
+<tspan x="10" y="522"> 18.  2017-04-24 10:18:00 +0000     5048 bytes  example/SampleApp/config/res/icon/ios/Icon-60@3x\</tspan>
+<tspan x="10" y="538">.png</tspan>
+<tspan x="10" y="554"> 19.  2017-04-24 10:18:00 +0000     4092 bytes  example/SampleApp/config/res/icon/ios/Icon-72.pn\</tspan>
+<tspan x="10" y="570">g</tspan>
+<tspan x="10" y="586"> 20.  2017-04-24 10:18:00 +0000     4704 bytes  example/SampleApp/config/res/icon/ios/Icon-72@2x\</tspan>
+<tspan x="10" y="602">.png</tspan>
+<tspan x="10" y="618"> 21.  2017-04-24 10:18:00 +0000     4118 bytes  example/SampleApp/config/res/icon/ios/Icon-76.pn\</tspan>
+<tspan x="10" y="634">g</tspan>
+<tspan x="10" y="650"> 22.  2017-04-24 10:18:00 +0000     4722 bytes  example/SampleApp/config/res/icon/ios/Icon-76@2x\</tspan>
+<tspan x="10" y="666">.png</tspan>
+<tspan x="10" y="682"> 23.  2017-04-24 10:18:00 +0000     3941 bytes  example/SampleApp/config/res/icon/ios/Icon-Small\</tspan>
+<tspan x="10" y="698">-50.png</tspan>
+<tspan x="10" y="714"> 24.  2017-04-24 10:18:00 +0000     4390 bytes  example/SampleApp/config/res/icon/ios/Icon-Small\</tspan>
+<tspan x="10" y="730">-50@2x.png</tspan>
+<tspan x="10" y="746"> 25.  2017-04-24 10:18:00 +0000     3620 bytes  example/SampleApp/config/res/icon/ios/Icon-Small\</tspan>
+<tspan x="10" y="762">.png</tspan>
+<tspan x="10" y="778"> 26.  2017-04-24 10:18:00 +0000     4015 bytes  example/SampleApp/config/res/icon/ios/Icon-Small\</tspan>
+<tspan x="10" y="794">@2x.png</tspan>
+<tspan x="10" y="810"> 27.  2017-04-24 10:18:00 +0000     4260 bytes  example/SampleApp/config/res/icon/ios/Icon-Small\</tspan>
+<tspan x="10" y="826">@3x.png</tspan>
+<tspan x="10" y="842"> 28.  2017-04-24 10:18:00 +0000     4029 bytes  example/SampleApp/config/res/icon/ios/Icon.png</tspan>
+<tspan x="10" y="858"> 29.  2017-04-24 10:18:00 +0000     4488 bytes  example/SampleApp/config/res/icon/ios/Icon@2x.pn\</tspan>
+<tspan x="10" y="874">g</tspan>
+<tspan x="10" y="890"> 30.  2017-04-24 10:18:00 +0000     8274 bytes  example/SampleApp/config/res/icon/ios/iTunesArtw\</tspan>
+<tspan x="10" y="906">ork.png</tspan>
+<tspan x="10" y="922"> 31.  2017-04-24 10:18:00 +0000    17311 bytes  example/SampleApp/config/res/icon/ios/iTunesArtw\</tspan>
+<tspan x="10" y="938">ork@2x.png</tspan>
+<tspan x="10" y="954"> 32.  2017-04-24 10:18:00 +0000       25 bytes  example/SampleApp/contributors.txt</tspan>
+<tspan x="10" y="970"> 33.  2017-04-24 10:18:00 +0000     7712 bytes  example/SampleApp/hooks/README.md</tspan>
+<tspan x="10" y="986"> 34.  2017-04-24 10:18:00 +0000     4569 bytes  example/SampleApp/hooks/before_prepare/resource_\</tspan>
+<tspan x="10" y="1002">copier.js</tspan>
+<tspan x="10" y="1018"> 35.  2017-04-24 10:18:00 +0000   133336 bytes  example/SampleApp/www/css/bootstrap-min.css</tspan>
+<tspan x="10" y="1034"> 36.  2017-04-24 10:18:00 +0000     2663 bytes  example/SampleApp/www/css/index.css</tspan>
+<tspan x="10" y="1050"> 37.  2017-04-24 10:18:00 +0000    20335 bytes  example/SampleApp/www/fonts/glyphicons-halflings\</tspan>
+<tspan x="10" y="1066">-regular.eot</tspan>
+<tspan x="10" y="1082"> 38.  2017-04-24 10:18:00 +0000    62926 bytes  example/SampleApp/www/fonts/glyphicons-halflings\</tspan>
+<tspan x="10" y="1098">-regular.svg</tspan>
+<tspan x="10" y="1114"> 39.  2017-04-24 10:18:00 +0000    41280 bytes  example/SampleApp/www/fonts/glyphicons-halflings\</tspan>
+<tspan x="10" y="1130">-regular.ttf</tspan>
+<tspan x="10" y="1146"> 40.  2017-04-24 10:18:00 +0000    23320 bytes  example/SampleApp/www/fonts/glyphicons-halflings\</tspan>
+<tspan x="10" y="1162">-regular.woff</tspan>
+<tspan x="10" y="1178"> 41.  2017-04-24 10:18:00 +0000    21814 bytes  example/SampleApp/www/img/logo.png</tspan>
+<tspan x="10" y="1194"> 42.  2017-04-24 10:18:00 +0000      940 bytes  example/SampleApp/www/img/still_blue.png</tspan>
+<tspan x="10" y="1210"> 43.  2017-04-24 10:18:00 +0000     2611 bytes  example/SampleApp/www/index.html</tspan>
+<tspan x="10" y="1226"> 44.  2017-04-24 10:18:00 +0000    13321 bytes  example/SampleApp/www/js/index.js</tspan>
+<tspan x="10" y="1242"> 45.  2017-04-24 10:18:00 +0000    84244 bytes  example/SampleApp/www/js/jquery-2.1.1.js</tspan>
+<tspan x="10" y="1258"> 46.  2017-04-24 10:18:00 +0000     1927 bytes  example/www/index.html</tspan>
+<tspan x="10" y="1274"> 47.  2017-04-24 10:18:00 +0000     4945 bytes  example/www/js/index.js</tspan>
+<tspan x="10" y="1290"> 48.  2017-04-24 10:18:00 +0000   109349 bytes  images/Screenshot-android-battery-framed.png</tspan>
+<tspan x="10" y="1306"> 49.  2017-04-24 10:18:00 +0000   201027 bytes  images/Screenshot-android-map1-framed.png</tspan>
+<tspan x="10" y="1322"> 50.  2017-04-24 10:18:00 +0000    83097 bytes  images/android-battery-detail.png</tspan>
+<tspan x="10" y="1338"> 51.  2017-04-24 10:18:00 +0000    83242 bytes  images/android-battery.png</tspan>
+<tspan x="10" y="1354"> 52.  2017-04-24 10:18:00 +0000   179146 bytes  images/android-sample-app.png</tspan>
+<tspan x="10" y="1370"> 53.  2017-04-24 10:18:00 +0000   347418 bytes  images/distance-filter-city.png</tspan>
+<tspan x="10" y="1386"> 54.  2017-04-24 10:18:00 +0000   643482 bytes  images/distance-filter-highway.png</tspan>
+<tspan x="10" y="1402"> 55.  2017-04-24 10:18:00 +0000   216070 bytes  images/enable-background-audio.png</tspan>
+<tspan x="10" y="1418"> 56.  2017-04-24 10:18:00 +0000      871 bytes  package.json</tspan>
+<tspan x="10" y="1434"> 57.  2017-04-24 10:18:00 +0000      704 bytes  package.json.old</tspan>
+<tspan x="10" y="1450"> 58.  2017-04-24 10:18:00 +0000     4798 bytes  plugin.xml</tspan>
+<tspan x="10" y="1466"> 59.  2017-04-24 10:18:00 +0000     4834 bytes  src/android/BackgroundGpsPlugin.java</tspan>
+<tspan x="10" y="1482"> 60.  2017-04-24 10:18:00 +0000    33405 bytes  src/android/LocationUpdateService.java</tspan>
+<tspan x="10" y="1498"> 61.  2017-04-24 10:18:00 +0000      307 bytes  src/android/data/DAOFactory.java</tspan>
+<tspan x="10" y="1514"> 62.  2017-04-24 10:18:00 +0000     1943 bytes  src/android/data/Location.java</tspan>
+<tspan x="10" y="1530"> 63.  2017-04-24 10:18:00 +0000      274 bytes  src/android/data/LocationDAO.java</tspan>
+<tspan x="10" y="1546"> 64.  2017-04-24 10:18:00 +0000     1368 bytes  src/android/data/sqlite/LocationOpenHelper.java</tspan>
+<tspan x="10" y="1562"> 65.  2017-04-24 10:18:00 +0000     3818 bytes  src/android/data/sqlite/SQLiteLocationDAO.java</tspan>
+<tspan x="10" y="1578"> 66.  2017-04-24 10:18:00 +0000     3661 bytes  src/android/notification.png</tspan>
+<tspan x="10" y="1594"> 67.  2017-04-24 10:18:00 +0000      958 bytes  src/ios/CDVBackgroundGeoLocation.h</tspan>
+<tspan x="10" y="1610"> 68.  2017-04-24 10:18:00 +0000    28031 bytes  src/ios/CDVBackgroundGeoLocation.m</tspan>
+<tspan x="10" y="1626"> 69.  2017-04-24 10:18:00 +0000     9694 bytes  src/wp8/BackgroundGeoLocation.cs</tspan>
+<tspan x="10" y="1642"> 70.  2017-04-24 10:18:00 +0000      406 bytes  src/wp8/BackgroundGeoLocationOptions.cs</tspan>
+<tspan x="10" y="1658"> 71.  2017-04-24 10:18:00 +0000     2842 bytes  src/wp8/DebugAudioNotifier.cs</tspan>
+<tspan x="10" y="1674"> 72.  2017-04-24 10:18:00 +0000     2013 bytes  src/wp8/ExtensionMethods.cs</tspan>
+<tspan x="10" y="1690"> 73.  2017-04-24 10:18:00 +0000      337 bytes  src/wp8/IBackgroundGeoLocation.cs</tspan>
+<tspan x="10" y="1706"> 74.  2017-04-24 10:18:00 +0000     4206 bytes  www/BackgroundGeoLocation.js</tspan>
+</text>
+</svg>
